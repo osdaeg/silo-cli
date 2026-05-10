@@ -1,0 +1,10 @@
+docker-compose.yml
+*.log
+iespien-specs.txt
+prompt.txt
+cache/*.*
+raindrop-import.py
+raindrop-backup.py
+README.md.github
+
+README.md.codeberg

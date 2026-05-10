@@ -1,6 +1,6 @@
 # silo-cli
 
-Cliente de línea de comandos para [Silo](https://codeberg.org/osdaeg/silo), el gestor de enlaces autoalojado.
+Cliente de línea de comandos para [Silo](https://github.com/osdaeg/silo), el gestor de enlaces autoalojado.
 
 ## Requisitos
 
@@ -77,4 +77,4 @@ silo sync
 
 ## Servidor
 
-Este cliente requiere una instancia de [Silo](https://codeberg.org/osdaeg/silo) corriendo y accesible.
+Este cliente requiere una instancia de [Silo](https://github.com/osdaeg/silo) corriendo y accesible.
